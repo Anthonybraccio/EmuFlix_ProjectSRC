@@ -6,6 +6,8 @@ Emuflix is a windows only application and not yet supported for MacOS or Linux s
 
 The goal of EmuFlix is to simplify emulator use by hiding technical setup behind a clean and controller-friendly experience.
 
+**Note: this is a submitted version of EmuFlix project and not a polished version, if trying to run it and run into issue please contact with issue or directly**
+
 ---
 
 ## Features
