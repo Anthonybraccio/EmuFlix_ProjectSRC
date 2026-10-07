@@ -1,0 +1,5 @@
+C:/Users/aweso/Documents/group47/Emuflix/build-release/CMakeFiles/Emuflix.dir
+C:/Users/aweso/Documents/group47/Emuflix/build-release/CMakeFiles/edit_cache.dir
+C:/Users/aweso/Documents/group47/Emuflix/build-release/CMakeFiles/rebuild_cache.dir
+C:/Users/aweso/Documents/group47/Emuflix/build-release/CMakeFiles/Emuflix_autogen_timestamp_deps.dir
+C:/Users/aweso/Documents/group47/Emuflix/build-release/CMakeFiles/Emuflix_autogen.dir

@@ -1,0 +1,48 @@
+
+h4.  __         __          __         __         __         __         __
+yyt$$$$$$k,,,t$$$$$$kyyyyt$$$$$$k,,,t$$$$$$kyy,t$$$$$$kyy,t$$$$$$kyyyt$$$$$$k,
+$$$P'``'4$$$$$P'``'4$$$$$$P'``'4$$$$$P'``'4$$$$$P'``'4$$$$$P'``'4$$$$$P'``'4$$;
+$$[      ]$$$[      ]$$$$[      ``$$[      ]$$$[      ]$$$[      ]$$$[      7$$
+$$$k,..,t$$$$$k,..,t$$$$$:        :$$k,..,t$$$$$k,..,t$$$$$k,..,t$$$$:      :$$
+$$4$$$$$$P```4$$$$$$QQQ$$:         `4$$$$$$QQQQQ$$$$$$$$$lQ$$$$$$P`$$:      :$$
+$$   ``         ``     ```     ,,,,,,,,ll         ``,t$$:    ``    ```      ```
+$$  mmmmmmmmmmmmmmmmmmmmmmmmmm $$$$$$$$$$ mmmmmmm $$$$P` mmmmmmmmmmmmmmmmmmmmyy
+``                             $$$___             ``                       : $$
+yy                             $$$$$$$$k,                                  : $$
+$$                             ``````'4$$:                                 : $$
+$$                                     ]$$                                   $$
+$$  ----                          ...,t$$:                                   $$
+QQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQ $$$$$P`,tQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQ                                   ```
+
+Welcome to the Paragon 5 music album info file.  Within you will find
+information on how to run the LP, how to contact us and who is responsible
+for the product you are watching.
+
+
+--Credits
+coder      - Stephane Hockenhull
+artist     - Francis Bernier
+producer   - Paul Bragiel
+musicians  - Chris Hampton
+             Balazs Vasvari
+             Asbjoern Andersen
+
+--Directions
+Simply start the ROM and use the left and right keypad buttons to navigate
+through the songs.
+
+In order to play this album properly you'll need specific hardware to burn
+the image of the ROM onto a cartridge.  If this hardware isn't available, we
+suggest you try to run it through the SMYGB emulator.  Other emulators that
+work include NOCASH and VGB, but their sound emulation is of lesser quality. 
+
+--Contact
+For any inquiries relating to either hiring our studio musicians or general
+questions please contact us at : paul@paragon5.com
+
+
+--Copyright Notice
+This Album and all the songs contained within are copyrighted property of
+Paragon Five Inc.
+
+(c) Paragon 5 1999

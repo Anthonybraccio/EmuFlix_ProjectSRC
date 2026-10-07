@@ -1,0 +1,27 @@
+var class_settings_window =
+[
+    [ "AddEmulatorRow", "struct_settings_window_1_1_add_emulator_row.html", "struct_settings_window_1_1_add_emulator_row" ],
+    [ "SettingsWindow", "class_settings_window.html#a92aff69ef45888a28ad9a21e428aec64", null ],
+    [ "backClicked", "class_settings_window.html#a5f7541e1d07257ee44b0148e7c0551e3", null ],
+    [ "browseForInstall", "class_settings_window.html#ac2c665d44c13c2122b9b59a42f645c92", null ],
+    [ "browseForPath", "class_settings_window.html#ad677f7078bac32461069e90f05c82ea3", null ],
+    [ "buildDefaultFolder", "class_settings_window.html#aa8a0219ec73c61ef3628ccffdc9198ab", null ],
+    [ "clearEmulatorPath", "class_settings_window.html#a7945087a12aa835f9a2410f39debf97d", null ],
+    [ "containsFolder", "class_settings_window.html#a894db7bfd35f0cfce2efe654e428bca5", null ],
+    [ "getInstallRequests", "class_settings_window.html#a900d6ab14a418d0145878d25ce23d767", null ],
+    [ "getTemplateIndexForSystem", "class_settings_window.html#a3ff0a3ecb142d938907ff7e1418c1c95", null ],
+    [ "installEmulatorsClicked", "class_settings_window.html#ae2fe1f3e2cba7dc1310a228d23887af8", null ],
+    [ "loadAddEditor", "class_settings_window.html#a7e22eeea1c4e351c2beaf9f2e9e04d4b", null ],
+    [ "loadSettings", "class_settings_window.html#aa34596aea61cb0b4a495fa2bbafa1bbc", null ],
+    [ "loadTemplateEditor", "class_settings_window.html#aad928e198389941b73f3d78fdacce089", null ],
+    [ "onAddClicked", "class_settings_window.html#a91080abc4d3bf55afbf5ea4b022de6db", null ],
+    [ "onCancelClicked", "class_settings_window.html#ae490c7f84b1820866a37c3a61496fdaa", null ],
+    [ "onInstallClicked", "class_settings_window.html#a73fe6fca3f5c6316a8b537cb77bfa14c", null ],
+    [ "onRemovedClicked", "class_settings_window.html#a087d129e6f9920d3daf768b1e6ff7c62", null ],
+    [ "onSaveClicked", "class_settings_window.html#a44619032d1645a3a72d597fc5fb1030e", null ],
+    [ "refreshAddStatuses", "class_settings_window.html#ac5d0c5de88e0ab94b6515dbfef251588", null ],
+    [ "refreshList", "class_settings_window.html#a0ccbb83cdd5c9e17c4d4424e46e9d23f", null ],
+    [ "saveTemplateEditor", "class_settings_window.html#a653f84bd2796ed3ddeea2964d911e418", null ],
+    [ "systemTemplateChanged", "class_settings_window.html#a1dde815ccdd28893c65cc491bf523837", null ],
+    [ "updateTemplateStatus", "class_settings_window.html#a27c55477a5a9783321802fe95e363623", null ]
+];

@@ -1,0 +1,9 @@
+Mesen Source Code Notice
+
+This EmuFlix package includes an unmodified third-party emulator binary from the Mesen2 project.
+
+Project: Mesen
+Repository: https://github.com/SourMesen/Mesen2
+License: GNU General Public License v3.0 (GPLv3)
+
+The corresponding source code for the bundled Mesen version is available from the official project repository and release pages.

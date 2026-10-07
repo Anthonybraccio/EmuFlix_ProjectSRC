@@ -1,0 +1,11 @@
+gopher64 Source Code Notice
+
+This EmuFlix package includes an unmodified third-party emulator binary from the gopher64 project.
+
+Project: gopher64
+Repository: https://github.com/gopher64/gopher64
+License: GNU General Public License v3.0 (GPLv3)
+
+The corresponding source code for the bundled gopher64 version is available from the official project repository and release pages.
+
+The gopher64 project states that many portions of gopher64 have been adapted from mupen64plus and/or ares. See the additional license files included in this folder for upstream notices.

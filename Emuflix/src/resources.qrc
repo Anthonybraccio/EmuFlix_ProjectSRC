@@ -1,0 +1,11 @@
+<RCC>
+    <qresource prefix="/images/placeholders">
+        <file alias="nes.png">../assets/images/placeholders/nes.png</file>
+        <file alias="snes.png">../assets/images/placeholders/snes.png</file>
+        <file alias="gba.png">../assets/images/placeholders/gba.png</file>
+        <file alias="gb.png">../assets/images/placeholders/gb.png</file>
+        <file alias="gbc.png">../assets/images/placeholders/gbc.png</file>
+        <file alias="n64.png">../assets/images/placeholders/n64.png</file>
+        <file alias="generic.png">../assets/images/placeholders/generic.png</file>
+    </qresource>
+</RCC>

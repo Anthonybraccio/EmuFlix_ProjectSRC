@@ -1,0 +1,27 @@
+EmuFlix Third-Party Notices
+
+This package includes third-party emulator software that is distributed separately from EmuFlix.
+
+EmuFlix does not claim ownership of these emulator projects. They remain the property of their respective authors and contributors.
+
+Included third-party components:
+
+1. Mesen
+   Project: https://github.com/SourMesen/Mesen2
+   License: GNU General Public License v3.0 (GPLv3)
+   Copyright: See the upstream project and included license materials.
+   Notes: Source code for the bundled version is available from the official repository and release pages.
+
+2. gopher64
+   Project: https://github.com/gopher64/gopher64
+   License: GNU General Public License v3.0 (GPLv3)
+   Copyright: See the upstream project and included license materials.
+   Notes: The upstream project indicates that portions are adapted from mupen64plus and/or ares. Additional upstream license materials are included in the licenses/gopher64 folder.
+
+Bundling policy used by this package:
+- Emulator binaries are included as separate third-party executables.
+- License and notice materials are included in the licenses folder.
+- Users should refer to the official upstream projects for source code, updates, and additional documentation.
+
+
+Users are responsible for providing their own legally obtained game files where permitted by law.

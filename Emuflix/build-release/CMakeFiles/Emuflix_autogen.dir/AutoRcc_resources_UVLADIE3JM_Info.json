@@ -1,0 +1,31 @@
+{
+	"BUILD_DIR" : "C:/Users/aweso/Documents/group47/Emuflix/build-release/Emuflix_autogen",
+	"CMAKE_BINARY_DIR" : "C:/Users/aweso/Documents/group47/Emuflix/build-release",
+	"CMAKE_CURRENT_BINARY_DIR" : "C:/Users/aweso/Documents/group47/Emuflix/build-release",
+	"CMAKE_CURRENT_SOURCE_DIR" : "C:/Users/aweso/Documents/group47/Emuflix",
+	"CMAKE_SOURCE_DIR" : "C:/Users/aweso/Documents/group47/Emuflix",
+	"CROSS_CONFIG" : false,
+	"GENERATOR" : "Ninja",
+	"INCLUDE_DIR" : "C:/Users/aweso/Documents/group47/Emuflix/build-release/Emuflix_autogen/include",
+	"INPUTS" : 
+	[
+		"C:/Users/aweso/Documents/group47/Emuflix/assets/images/placeholders/gb.png",
+		"C:/Users/aweso/Documents/group47/Emuflix/assets/images/placeholders/generic.png",
+		"C:/Users/aweso/Documents/group47/Emuflix/assets/images/placeholders/snes.png",
+		"C:/Users/aweso/Documents/group47/Emuflix/assets/images/placeholders/n64.png",
+		"C:/Users/aweso/Documents/group47/Emuflix/assets/images/placeholders/gba.png",
+		"C:/Users/aweso/Documents/group47/Emuflix/assets/images/placeholders/gbc.png",
+		"C:/Users/aweso/Documents/group47/Emuflix/assets/images/placeholders/nes.png"
+	],
+	"LOCK_FILE" : "C:/Users/aweso/Documents/group47/Emuflix/build-release/CMakeFiles/Emuflix_autogen.dir/AutoRcc_resources_UVLADIE3JM_Lock.lock",
+	"MULTI_CONFIG" : false,
+	"OPTIONS" : [ "-name", "resources" ],
+	"OUTPUT_CHECKSUM" : "UVLADIE3JM",
+	"OUTPUT_NAME" : "qrc_resources.cpp",
+	"RCC_EXECUTABLE" : "C:/msys64/ucrt64/share/qt6/bin/rcc.exe",
+	"RCC_LIST_OPTIONS" : [ "--list" ],
+	"SETTINGS_FILE" : "C:/Users/aweso/Documents/group47/Emuflix/build-release/CMakeFiles/Emuflix_autogen.dir/AutoRcc_resources_UVLADIE3JM_Used.txt",
+	"SOURCE" : "C:/Users/aweso/Documents/group47/Emuflix/src/resources.qrc",
+	"USE_BETTER_GRAPH" : true,
+	"VERBOSITY" : 0
+}

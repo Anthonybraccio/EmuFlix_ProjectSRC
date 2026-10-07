@@ -1,0 +1,25 @@
+var searchData=
+[
+  ['emuflix_0',['EmuFlix',['../md__r_e_a_d_m_e.html',1,'']]],
+  ['emuflixapp_1',['EmuFlixApp',['../class_emu_flix_app.html',1,'EmuFlixApp'],['../class_emu_flix_app.html#a333da1cff6c8917d5ab5a1b29489522d',1,'EmuFlixApp::EmuFlixApp()']]],
+  ['emuflixapp_2ecpp_2',['EmuFlixApp.cpp',['../_emu_flix_app_8cpp.html',1,'']]],
+  ['emuflixapp_2eh_3',['EmuFlixApp.h',['../_emu_flix_app_8h.html',1,'']]],
+  ['emulatorinstaller_4',['EmulatorInstaller',['../class_emulator_installer.html',1,'']]],
+  ['emulatorinstaller_2ecpp_5',['EmulatorInstaller.cpp',['../_emulator_installer_8cpp.html',1,'']]],
+  ['emulatorinstaller_2eh_6',['EmulatorInstaller.h',['../_emulator_installer_8h.html',1,'']]],
+  ['emulatormanager_7',['EmulatorManager',['../class_emulator_manager.html',1,'EmulatorManager'],['../class_emulator_manager.html#a130db17ee01f7af9941dd5f395146ad4',1,'EmulatorManager::EmulatorManager()']]],
+  ['emulatormanager_2ecpp_8',['EmulatorManager.cpp',['../_emulator_manager_8cpp.html',1,'']]],
+  ['emulatormanager_2eh_9',['EmulatorManager.h',['../_emulator_manager_8h.html',1,'']]],
+  ['emulatorpath_10',['emulatorPath',['../struct_emulator_template.html#a05105025244fef38b80a7acf50f57309',1,'EmulatorTemplate']]],
+  ['emulators_11',['Configure emulators',['../md__r_e_a_d_m_e.html#autotoc_md16',1,'']]],
+  ['emulatorstatus_12',['EmulatorStatus',['../_emulator_status_8h.html#a3077192ccd1e418ceba86c2327c0da2f',1,'EmulatorStatus.h']]],
+  ['emulatorstatus_2eh_13',['EmulatorStatus.h',['../_emulator_status_8h.html',1,'']]],
+  ['emulatortemplate_14',['EmulatorTemplate',['../struct_emulator_template.html',1,'']]],
+  ['emulatortemplate_2eh_15',['EmulatorTemplate.h',['../_emulator_template_8h.html',1,'']]],
+  ['enabled_16',['enabled',['../struct_emulator_template.html#ac5abc6e58b397448afd68323e8557623',1,'EmulatorTemplate']]],
+  ['ensurefocusedcardvisible_17',['ensureFocusedCardVisible',['../class_main_window.html#a40228a80b6c004f19ae1ddc91feb839c',1,'MainWindow']]],
+  ['ensuretemplate_18',['ensureTemplate',['../class_emulator_manager.html#ad67a5a44c9546e1547b3bb91a6075fe0',1,'EmulatorManager']]],
+  ['errors_19',['errors',['../struct_scan_result.html#abd2c7e22010421bca79f54612fd79230',1,'ScanResult']]],
+  ['executablepath_20',['executablePath',['../struct_install_result.html#aeeea6a9b485b4a50f2a623c4f17dec8a',1,'InstallResult']]],
+  ['extractzip_21',['extractZip',['../class_emulator_installer.html#ab2fa1fdb5d4c2bd84f0bc83766ba7b11',1,'EmulatorInstaller']]]
+];
